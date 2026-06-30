@@ -12,8 +12,9 @@ function Navbar() {
           Home
         </NavLink>
         <NavLink to="/features">Features</NavLink>
-        <NavLink to="/demo">Demo</NavLink>
-        <NavLink to="/about">About</NavLink>
+        <NavLink to="/guided-use">How to use</NavLink>
+        <NavLink to="/signup">Sign up</NavLink>
+        <NavLink to="/login">Log in</NavLink>
       </div>
     </nav>
   )
